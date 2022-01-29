@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:skyline_template_app/viewmodels/teacher_viewmodel.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:skyline_template_app/core/utilities/constants.dart';
 import 'package:stacked/stacked.dart';
 import 'package:skyline_template_app/locator.dart';

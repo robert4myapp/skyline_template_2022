@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:skyline_template_app/core/utilities/constants.dart';
 import 'package:skyline_template_app/viewmodels/home_viewmodel.dart';
 import 'package:skyline_template_app/locator.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:stacked/stacked.dart';
 
 class HomeView extends StatelessWidget {

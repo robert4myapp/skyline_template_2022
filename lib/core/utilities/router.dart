@@ -24,7 +24,7 @@ class Router {
   }
 
   static Widget _generateRoute(RouteSettings settings) {
-    final arguments = settings.arguments;
+    //final arguments = settings.arguments;
     routeName(settings.name);
     switch (settings.name) {
       case HomeViewRoute:

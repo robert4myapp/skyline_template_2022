@@ -3,7 +3,6 @@ import 'package:skyline_template_app/ui/home_view.dart';
 import 'package:skyline_template_app/core/services/navigation_service.dart';
 import 'package:skyline_template_app/core/utilities/router.dart' as router;
 import 'locator.dart';
-import 'package:flutter/widgets.dart';
 
 
 void main() async {
